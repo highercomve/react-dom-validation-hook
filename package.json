@@ -1,6 +1,6 @@
 {
   "name": "react-dom-validation-hook",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Form validation with DOM API Hooks for react",
   "repository": "https://github.com/highercomve/react-dom-validation-hook",
   "author": "Sergio Marin",
